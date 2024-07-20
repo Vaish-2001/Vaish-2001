@@ -1,4 +1,4 @@
-[![masterhead](https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg)
+![masterhead](https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg)
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR66YnLwXINs-ukkIt7Dm58IkRJWqXTr9wVqg&s">
 
 # 💫 About Me:
